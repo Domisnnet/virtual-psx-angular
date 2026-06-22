@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-display',
+  selector: 'app-display-component',
   standalone: true,
   imports: [],
   templateUrl: './display.component.html',
-  styleUrls: ['./display.component.css'],
+  styleUrls: ['./display.component.scss'],
 })
-export class Display {}
+export class DisplayComponent {}
