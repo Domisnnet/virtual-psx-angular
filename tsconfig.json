@@ -1,19 +1,40 @@
-/* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
-/* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
 {
+  /* To learn more about Typescript configuration file:
+     https://www.typescriptlang.org/docs/handbook/tsconfig-json.html */
+
+  /* To learn more about Angular compiler options:
+     https://angular.dev/reference/configs/angular-compiler-options */
   "compileOnSave": false,
   "compilerOptions": {
+    "target": "ES2022",
+    "module": "preserve",
+    "baseUrl": "./",
+    "paths": {
+      "@app/*": ["src/app/*"],
+      "@components/*": ["src/app/components/*"],
+      "@pages/*": ["src/app/pages/*"],
+      "@layouts/*": ["src/app/layouts/*"],
+      "@shared/*": ["src/app/shared/*"],
+      "@services/*": ["src/app/services/*"],
+      "@models/*": ["src/app/models/*"],
+      "@interfaces/*": ["src/app/interfaces/*"],
+      "@guards/*": ["src/app/guards/*"],
+      "@pipes/*": ["src/app/pipes/*"],
+      "@directives/*": ["src/app/directives/*"],
+      "@interceptors/*": ["src/app/interceptors/*"],
+      "@utils/*": ["src/app/utils/*"],
+      "@assets/*": ["src/assets/*"],
+      "@environments/*": ["src/environments/*"]
+    },
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
-    "skipLibCheck": true,
     "isolatedModules": true,
     "experimentalDecorators": true,
     "importHelpers": true,
-    "target": "ES2022",
-    "module": "preserve"
+    "skipLibCheck": true
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,

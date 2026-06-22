@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-display',
   standalone: true,
   imports: [],
-  templateUrl: './display.html',
-  styleUrls: ['./display.css'],
+  templateUrl: './display.component.html',
+  styleUrls: ['./display.component.css'],
 })
 export class Display {}
