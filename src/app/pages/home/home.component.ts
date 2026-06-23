@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { MenuBarComponent } from '@components/menu-bar/menu-bar.component';
+import { HeaderComponent } from '@app/components/header/header.component';
 import { CardComponent } from '@app/components/card/card.component';
 import { CardService, CardData } from '@app/components/services/card.service';
 
@@ -9,7 +9,7 @@ import { CardService, CardData } from '@app/components/services/card.service';
   standalone: true,
   imports: [
     CommonModule,
-    MenuBarComponent,
+    HeaderComponent,
     CardComponent
   ],
   templateUrl: './home.component.html',
