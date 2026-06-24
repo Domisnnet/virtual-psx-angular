@@ -1,7 +1,5 @@
 {
   "projects": {
     "prod": "virtual-psx-angular"
-  },
-  "targets": {},
-  "etags": {}
+  }
 }
