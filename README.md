@@ -2,7 +2,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Virtual-PSX-Angular?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Virtual-PSX-Angular?style=for-the-badge)
 
-<h2 id="sobre-o-projeto">1. 🎮 Plataforma fictícia de Games Digital 🎮💿</h2>
+<h2 id="sobre-o-projeto">1. 🎮 Plataforma fictícia de Games Digitais 🎮💿</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular-20-DD0031?style=flat-square&logo=angular&logoColor=white)
