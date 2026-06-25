@@ -25,6 +25,17 @@ Bem-vindo ao repositório do meu PSX Store Angular. Esta aplicação é uma plat
 
 ---
 
+<h2 id="tecnologias-utilizadas">2. ⚙️ Tecnologias Utilizadas</h2>
+
+| Camada | Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| **Core** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | Framework principal com arquitetura Standalone. |
+| **Style** | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) | Pré-processador SCSS para estilização modular. |
+| **Backend/Host** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Hospedagem, Functions e Analytics. |
+| **CI/CD** | ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | Automação de builds e deploys contínuos. |
+
+---
+
 <h2 id="como-acessar">3. 🚀 Como Acessar</h2>
 
 Entre na PSX Store clicando no botão abaixo:
@@ -119,7 +130,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 </details>
 
 <details>
-<summary><strong>Posso utilizar este código em meu portfólio pessoal ❓</strong></summary>
+<summary><strong>Posso utilizar este código em meu Portfólio e/ou projeto pessoal ❓</strong></summary>
 <p>🤝 <strong>Resposta:</strong> Com certeza. O projeto é <strong>Open Source</strong>. Você pode clonar, estudar a estrutura de pastas e utilizar como base para seus próprios estudos de UI, desde que mantenha a atribuição original conforme a licença MIT e não se esqueça de dar os devidos créditos!!.</p>
 </details>
 
