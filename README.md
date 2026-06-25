@@ -54,7 +54,7 @@ Entre na PSX Store clicando no botão abaixo:
 | :--- | :--- |
 | 🛡️ **Standalone Components** | Arquitetura moderna sem NgModules, reduzindo o bundle size e complexidade. |
 | 🎴 **Card Component System** | Componente reutilizável para exibição dinâmica de tecnologias com ícones. |
-| 🧭 **Header Navigation** | Componente de Header com navegação, logo e links externos (YouTube, LinkedIn, GitHub). |
+| 🧭 **Header Navigation** | Componente de Header com navegação, logo e links externos **(YouTube, LinkedIn, GitHub)**. |
 | ⚡ **Firebase Hosting** | Entrega ultra-rápida via CDN global com certificado SSL e cache inteligente. |
 | 🎨 **SCSS Modular** | Estilização baseada em princípios de design atômico e estruturação modular. |
 
