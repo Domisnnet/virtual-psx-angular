@@ -27,9 +27,7 @@ Bem-vindo ao repositório do meu PSX Store Angular. Esta aplicação é uma plat
 
 <h2 id="como-acessar">3. 🚀 Como Acessar</h2>
 
-Entre na PS Store clicando no botão abaixo:
-=======
-Entre no Projeto clicando no botão abaixo:
+Entre na PSX Store clicando no botão abaixo:
 
 <div align="left">
 <a href="https://virtual-psx-angular.web.app/home" target="_blank">
@@ -118,6 +116,11 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 <details>
 <summary><strong>Como foi implementada a acessibilidade ❓</strong></summary>
 <p>🎨 <strong>Resposta:</strong> Utilizei <code>aria-label</code> em tags navegação e links, <code>alt</code> descritivo em imagens, e estrutura semântica HTML5 para garantir acessibilidade conforme padrões WCAG.</p>
+</details>
+
+<details>
+<summary><strong>Posso utilizar este código em meu portfólio pessoal ❓</strong></summary>
+<p>🤝 <strong>Resposta:</strong> Com certeza. O projeto é <strong>Open Source</strong>. Você pode clonar, estudar a estrutura de pastas e utilizar como base para seus próprios estudos de UI, desde que mantenha a atribuição original conforme a licença MIT e não se esqueça de dar os devidos créditos!!.</p>
 </details>
 
 ---
